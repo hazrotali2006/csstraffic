@@ -1,0 +1,125 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+.cass-stduies-wrapper h4 {
+	font-size: 16px;
+}
+.footer-area h4 {
+	font-size: 18px;
+	margin-bottom: 	15px;
+
+}
+./* email-subcrion-form input:nth-child(2) {
+	margin-left: -17px;
+}
+.email-subcrion-form input:nth-child(1) {
+	width: 173px;
+} */
+.social-ling li a {
+	margin: 22px 12px 0px 0px;
+}
+.cass-stduies-wrapper p {
+	padding: 10px;
+}
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+	.section-padding {
+	padding: 100px 0;
+}
+.header-right-btn {
+	text-align: center !important;
+	margin-left: -30px;
+}
+.hero-area {
+	padding: 100px 0px;
+}
+.slingel-service-box {
+	padding: 17px 9px;
+}
+.cass-stduies-wrapper h4 {
+	font-size: 15px;
+}
+.cass-stduies-wrapper {
+	padding: 0;
+}
+.single-pricing-box {
+	padding: 20px 10px;
+}
+.pricing-content ul li {
+	font-size: 18px;
+}
+.footer-marjin-left {
+	margin-left: -73px;
+}
+.email-subcrion-form input:nth-child(2) {
+	margin-left: -16px;
+}
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.cass-stduies-wrapper h4 {
+	font-size: 15px;
+}
+.slicknav_menu {
+  display:block;
+.logo {
+	margin-top: -71px;
+}
+.hero-img-right {
+	text-align: left !important;
+	margin-top: 24px;
+}
+.hero-area {
+	padding: 10px 0px;
+}
+.transparency-left {
+	text-align: left !important;
+}
+.btn.btn-analysis {
+	margin: auto;
+	display: block;
+	margin-top: 20px;
+}
+.single-pricing-box {
+	margin-bottom: 28px;
+}
+.section-titel {
+	width: 700px;
+}
+.email-subcrion-form input:nth-child(1) {
+	width: 70%;
+	
+}
+.email-subcrion-form input:nth-child(2) {
+	width: 30%;
+}
+.footer-marjin-left {
+	margin-top: 26px;
+}
+.social-ling li a {
+	margin: 34px 60px 0px 0px;
+}
+.social-ling li a i {
+	margin: 3px 10px 8px 0px;
+}
+}
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.slicknav_menu {
+  display:block;
+ }
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ 
+	.slingel-service--withe {
+		width: 100%;
+} 
+}
