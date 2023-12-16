@@ -1,6 +1,6 @@
 $(document).ready(function(){
     
-    $(window).load(function() {
+  /*  $(window).load(function() {
    $("#loading").fadeOut(500);
 });
 
@@ -102,6 +102,6 @@ $('.testimonial-carousel').owlCarousel({
     items:1,
 
 
-})
+})*/
 
 });
